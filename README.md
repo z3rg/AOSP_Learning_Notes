@@ -6,6 +6,7 @@ Reading Material :
 4. http://woshijpf.github.io/2016/12/17/Android-NDKvsAOSP-Build-System/ <-- you need translator for this.
 5. https://aabdelfattah.wordpress.com/2013/04/08/android-build-system-ultimate-guide/
 6. https://devmaze.wordpress.com/2011/01/18/using-com-android-internal-part-1-introduction/
+7. http://www.iwobanas.com/2015/06/accessing-android-internal-apis-from-apps/
 
 Goals,
 Uses Hidden Internal api from android open source project which cannot be done using NDK.
