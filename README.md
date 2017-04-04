@@ -1,4 +1,4 @@
-# AOSP Learning Notes
+# AOSP BUilding Learning Notes
 Reading Material :
 1. http://blog.udinic.com/2014/05/24/aosp-part-1-get-the-code-using-the-manifest-and-repo/
 2. http://blog.udinic.com/2014/06/04/aosp-part-2-build-variants/
